@@ -1,0 +1,9 @@
+{
+  "name": "dumpasn1",
+  "version": "20130608",
+  "repo": "clibs/dumpasn1",
+  "description": "Displays contents of ASN.1 encoded data.",
+  "keywords": ["asn.1", "asn1", "ber", "der"],
+  "src": ["dumpasn1.c"]
+}
+
